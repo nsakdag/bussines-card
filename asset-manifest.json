@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react2/static/css/main.e0a2ee24.css",
+    "main.js": "/react2/static/js/main.aa39a256.js",
+    "static/media/nsakdag.jpg": "/react2/static/media/nsakdag.7910618e611266de1ae7.jpg",
+    "index.html": "/react2/index.html",
+    "main.e0a2ee24.css.map": "/react2/static/css/main.e0a2ee24.css.map",
+    "main.aa39a256.js.map": "/react2/static/js/main.aa39a256.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0a2ee24.css",
+    "static/js/main.aa39a256.js"
+  ]
+}
